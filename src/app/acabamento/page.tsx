@@ -1,6 +1,4 @@
 import { Paintbrush } from "lucide-react";
-import { Navbar } from "../components/Navbar";
-import { Footer } from "../components/Footer";
 
 // Removido o 'createFileRoute' do TanStack Router
 // Adicionado o 'export default' exigido pelo Next.js
