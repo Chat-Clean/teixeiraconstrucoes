@@ -24,10 +24,10 @@ export function Navbar() {
               href="tel:84991809746"
               className="flex items-center gap-1 hover:text-white/80 transition-colors"
             >
-              <Phone className="h-3 w-3" /> (84) 99180-9746
+              <Phone className="h-3 w-3" /> (84) 99985-1269
             </a>
             <span className="hidden items-center gap-1 lg:flex">
-              <MapPin className="h-3 w-3" /> R. dos Girassois, 7. Santo
+              <MapPin className="h-3 w-3" /> R. dos Jasmins, 15 - Lote Jardim Arapua. Centro. Santo
               Antônio/RN
             </span>
           </div>
