@@ -47,21 +47,17 @@ export function Footer() {
             <ul className="mt-6 space-y-4 text-sm">
               <li className="flex gap-3">
                 <MapPin className="mt-1 h-4 w-4 shrink-0 text-white" />
-                <span>R. dos Girassois, 7, Centro, Santo Antônio/RN, 59.255-000</span>
+                <span>R. dos Jasmins, 15 - Lote Jardim Arapua, Centro, Santo Antônio/RN, 59.255-000</span>
               </li>
               <li className="flex flex-col gap-2">
                 <div className="flex gap-3 text-white font-bold">
                   <Phone className="h-4 w-4 shrink-0 text-white" />
-                  <a href="tel:84991809746" className="hover:text-secondary transition-colors">(84) 99180-9746</a>
-                </div>
-                <div className="flex gap-3 text-white font-bold">
-                  <Phone className="h-4 w-4 shrink-0 text-white" />
-                  <a href="tel:83981156158" className="hover:text-secondary transition-colors">(83) 98115-6158</a>
+                  <a href="tel:84991809746" className="hover:text-secondary transition-colors">(84) 99985-1269</a>
                 </div>
               </li>
               <li className="flex gap-3 text-xs">
                 <ShieldCheck className="h-4 w-4 shrink-0 text-white" />
-                <span>CNPJ: 30.943.701/0001-25</span>
+                <span>CNPJ: 65.495.308/0001-09</span>
               </li>
             </ul>
           </div>
