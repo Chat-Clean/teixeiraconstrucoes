@@ -52,7 +52,7 @@ export function Footer() {
               <li className="flex flex-col gap-2">
                 <div className="flex gap-3 text-white font-bold">
                   <Phone className="h-4 w-4 shrink-0 text-white" />
-                  <a href="tel:84991809746" className="hover:text-secondary transition-colors">(84) 99985-1269</a>
+                  <a href="tel:84991809746" className="hover:text-secondary transition-colors">(84) 9700-2553</a>
                 </div>
               </li>
               <li className="flex gap-3 text-xs">
